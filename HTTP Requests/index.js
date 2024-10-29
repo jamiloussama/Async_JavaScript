@@ -1,4 +1,6 @@
 
+// HTTP Requests
+
 // https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState
 
 const request = new XMLHttpRequest();
